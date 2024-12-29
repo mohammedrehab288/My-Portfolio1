@@ -1,0 +1,157 @@
+﻿@{
+    Layout = "_Layout";
+}
+ @addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/bootstrap/css/style.css" />
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Black background */
+            color: #fff;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .about-text {
+            flex: 1;
+            padding-right: 20px;
+        }
+
+            .about-text h1 {
+                font-size: 40px;
+                margin-bottom: 20px;
+                font-family: 'Poppins', sans-serif;
+                font-weight: 600;
+                color: dodgerblue;
+                position: relative;
+            }
+
+                .about-text h1::after {
+                    content: '';
+                    width: 200px;
+                    height: 4px;
+                    background-color:white;
+                    position: absolute;
+                    left: 0;
+                    bottom: -5px;
+                }
+
+            .about-text p {
+                font-size: 18px;
+                line-height: 1.8;
+                font-family: 'Poppins', sans-serif;
+                font-weight: 300;
+                color: white;
+                margin-bottom: 20px;
+            }
+
+                .about-text p strong {
+                    color: dodgerblue;
+                }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: dodgerblue;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            margin-top: 20px;
+            margin-left: 400px; /* تحريك الزر قليلاً إلى اليمين */
+            transition: background-color 0.3s ease;
+        }
+
+            .btn:hover {
+                background-color: dodgerblue;
+            }
+
+        .about-img img {
+            max-width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <section class="main">
+        <div class="about-text">
+            <h1><small>Hello, I'm</small> <strong><br>Mohammed Rehab</strong><br><span>Software Engineer</span></h1>
+            <h3>I design innovative software to solve everyday problems.</h3>
+            <a asp asp-controller="Home" asp-action="Projects" class="main-btn">View my projects</a>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/mohammed-rehab-8211b6309/"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://github.com/mohammedrehab288"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=61555488620245"><i class="fa-brands fa-facebook"></i></a>
+                <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+        </div>
+
+           
+            <div class="about-img">
+                <img src="~/image/Mohammed.jpg" alt="My Photo" />
+            </div>
+    </section>
+
+    <section class="container">
+        <div class="about-text">
+            <h1>About Me</h1>
+            <p>
+                Hello, I’m <strong>@Model.Name</strong>, a @Model.Age-year-old @Model.Specialization[0] at @Model.University,
+                currently specializing in <strong>@Model.Field</strong>. My journey began at Tanta University, where I’m pursuing a Bachelor of Computer Engineering and Automatic Control (with Mathematics). My core fields of study include @Model.Studies. These academic projects gave me real-world insight into how backend systems function and how they can be optimized for efficiency.
+
+            </p>
+            <p>
+                But my skills go beyond academia. During my training with the Digital Egypt Builders Initiative, I have completed over 200 hours of specialized training in .NET Web Development.This program not only refined my technical skills but also gave me hands-on experience working on real-world projects.In addition to this,I gained valuable freelancing experience. Over the course of six months, I learned how to combine technical expertise with client management and project delivery. This experience significantly honed both my freelancing and technical skills, and it gave me the confidence to work in a professional environment.
+            </p>
+            <p>
+                I am an expert in <strong>@Model.Skills[0]</strong>, <strong>@Model.Skills[1]</strong>, <strong>@Model.Skills[2]</strong>, <strong>@Model.Skills[3]</strong>, and <strong>@Model.Skills[4]</strong>. I am a dedicated <strong>@Model.Specialization[1]</strong> with expertise in creating scalable and efficient solutions. I transform complex requirements into high-performance backend systems. My focus on code quality, performance optimization, and problem-solving ensures reliable and impactful solutions for diverse projects.
+            </p>
+            <p>
+                Looking ahead, I’m eager to apply my knowledge in a professional setting, focusing on developing robust backend systems. My long-term goal is to work on projects that push the boundaries of what technology can achieve, particularly in the areas of automation and artificial intelligence. These fields offer so much potential, and I’m excited to be part of the innovation that’s happening in these spaces.
+            </p>
+            <p></p>
+            <p>
+                <div class="resume">
+                    <p class="heading">You can download my resume from here:</p>
+                    <a href="~/image/MohammedRehab CV.pdf" download class="main-btn">Download My Resume</a>
+                </div>
+            </p>
+            <p></p>
+            <p>
+                <a asp-controller="Home" asp-action="ContactMe" class="btn">Contact Me</a>
+            </p>
+        </div>
+
+    </section>
+</body>
+</html>
+

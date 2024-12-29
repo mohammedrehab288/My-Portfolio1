@@ -1,0 +1,195 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/bootstrap/css/style.css" />
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+    <style>
+       
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #000; 
+            color: #fff; 
+        }
+
+        /* Basic styles for cards section */
+        .cards {
+            padding: 20px;
+            background-color: black; 
+            text-align: center;
+            color: #fff; 
+        }
+
+        .title {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: dodgerblue; 
+        }
+
+        .content {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            background-color: #000016; 
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+            color: #fff; 
+        }
+
+        .icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: dodgerblue; 
+        }
+
+        .info h3 {
+            margin-bottom: 10px;
+            color: dodgerblue; 
+        }
+
+        .info p {
+            font-size: 1em;
+            color: #ccc; 
+        }
+
+        /* Flexbox grid for layout */
+        .content {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Services Section -->
+    <section class="cards" id="services">
+        <h2 class="title">Services</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-database"></i>
+                </div>
+                <div class="info">
+                    <h3>Database Management</h3>
+                    <p>
+                        • Designing, creating, and maintaining databases to ensure data is stored in an organized and secure manner.<br>
+                        • Writing efficient queries to interact with the data and optimize performance.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-cogs"></i>
+                </div>
+                <div class="info">
+                    <h3>API Development</h3>
+                    <p>
+                       • Creating Application Programming Interfaces (APIs) that allow different applications to communicate and exchange data.<br>
+                       • Ensuring APIs are secure, scalable, and user-friendly for other developers.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-lock"></i>
+                </div>
+                <div class="info">
+                    <h3>Security and Data Protection</h3>
+                    <p>
+                        • Implementing robust security measures to protect data from attacks and breaches.<br>
+                        • Managing authentication and authorization to ensure only authorized users can access necessary resources.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-rocket"></i>
+                </div>
+                <div class="info">
+                    <h3>Performance Optimization</h3>
+                    <p>
+                        • Analyzing and improving the performance of servers and applications to ensure high responsiveness and the ability to handle large loads.<br>
+                        • Utilizing caching techniques and Content Delivery Networks (CDNs) to enhance performance.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-sync-alt"></i>
+                </div>
+                <div class="info">
+                    <h3>Front-End Integration</h3>
+                    <p>
+                        • Creating Application Programming Interfaces (APIs) that allow different applications to communicate and exchange data.<br>
+                        • Ensuring APIs are secure, scalable, and user-friendly for other developers.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-check-circle"></i>
+                </div>
+                <div class="info">
+                    <h3>Testing and Debugging</h3>
+                    <p>
+                        • Conducting comprehensive tests on the code to ensure it is free of errors and vulnerabilities.<br>
+                        • Debugging and refining the code based on test results and feedback.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-tools"></i>
+                </div>
+                <div class="info">
+                    <h3>Deployment and Maintenance</h3>
+                    <p>
+                        • Setting up deployment environments and ensuring smooth transitions of applications from development to production.<br>
+                        • Monitoring and maintaining servers and applications to ensure continuous operation and quickly resolving any issues that arise.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="info">
+                    <h3>Collaboration and Teamwork</h3>
+                    <p>
+                        • Working closely with various teams such as front-end designers, project managers, and QA developers to achieve project goals efficiently.<br>
+                        • Participating in project planning and providing time and technical estimates as needed.
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-arrow-circle-up"></i>
+                </div>
+                <div class="info">
+                    <h3>Continuous Improvement and Development</h3>
+                    <p>
+                        • Staying updated with the latest technologies and tools in backend development and applying them to enhance work quality and efficiency.<br>
+                        • Updating and maintaining legacy code to ensure it meets modern standards and user requirements.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

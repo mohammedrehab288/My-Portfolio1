@@ -1,0 +1,91 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/bootstrap/css/style.css" />
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff; 
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .skills-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h2, h3, h4 {
+            color: dodgerblue; 
+        }
+
+        ul {
+            list-style-type: none; 
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <section class="skills-container">
+        <h2>Skills</h2>
+        <div class="section">
+            <h3>Software Development:</h3>
+            <ul>
+                <li>
+                    @foreach (var TechnicalSkill in (List<string>)ViewData["Software Development:"])
+                    {
+                        <span>@TechnicalSkill</span>
+                    }
+                </li>
+            </ul>
+            <h3>Databases:</h3>
+            <ul>
+                <li>@ViewData["Databases:"]</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Tools & Frameworks:</h3>
+            <ul>
+                <li>@ViewData["Tools & Frameworks:"]</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Programming Languages:</h3>
+            <ul>
+                <li>@ViewBag.Languages</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Back-end technologies:</h3>
+            <ul>
+                <li>@ViewBag.back</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Front-end technologies:</h3>
+            <ul>
+                <li>@ViewBag.front</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>
+
+

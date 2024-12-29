@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Portfolio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AL-Qadisya\\Downloads\\team_8_hospital\\team_8_hospital\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AL-Qadisya\\Downloads\\MEDINOVA Free Website Template - Free-CSS.com\\hospital-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\wwwroot\\bootstrap\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\wwwroot\\bootstrap\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\views\\home\\contactme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\views\\home\\contactme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|d:\\my_portfolio3\\my_portfolio2\\models\\aboutme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570A660-9C00-44CA-8686-D60120825B7F}|My_Portfolio2\\My_Portfolio2.csproj|solutionrelative:my_portfolio2\\models\\aboutme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Program.cs",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Program.cs",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Program.cs",
+              "RelativeToolTip": "My_Portfolio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:13:01.454Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "My_Portfolio2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:14:59.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\AL-Qadisya\\Downloads\\team_8_hospital\\team_8_hospital\\index.html",
+              "ToolTip": "C:\\Users\\AL-Qadisya\\Downloads\\team_8_hospital\\team_8_hospital\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-18T12:53:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:17:25.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Skills.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Home\\Skills.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Skills.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Home\\Skills.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T23:33:22.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:15:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T11:35:48.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Models\\Project.cs",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Models\\Project.cs",
+              "RelativeToolTip": "My_Portfolio2\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:11:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\AL-Qadisya\\Downloads\\MEDINOVA Free Website Template - Free-CSS.com\\hospital-website-template\\index.html",
+              "ToolTip": "C:\\Users\\AL-Qadisya\\Downloads\\MEDINOVA Free Website Template - Free-CSS.com\\hospital-website-template\\index.html",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-18T10:52:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Home\\Services.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:16:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T21:56:57.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T21:56:59.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\css\\style.css",
+              "RelativeDocumentMoniker": "My_Portfolio2\\wwwroot\\bootstrap\\css\\style.css",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\css\\style.css",
+              "RelativeToolTip": "My_Portfolio2\\wwwroot\\bootstrap\\css\\style.css",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T19:56:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutMe.cs",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Models\\AboutMe.cs",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Models\\AboutMe.cs",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Models\\AboutMe.cs",
+              "RelativeToolTip": "My_Portfolio2\\Models\\AboutMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:20:44.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactMe.cshtml",
+              "DocumentMoniker": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\ContactMe.cshtml",
+              "RelativeDocumentMoniker": "My_Portfolio2\\Views\\Home\\ContactMe.cshtml",
+              "ToolTip": "D:\\My_Portfolio3\\My_Portfolio2\\Views\\Home\\ContactMe.cshtml",
+              "RelativeToolTip": "My_Portfolio2\\Views\\Home\\ContactMe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:17:05.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

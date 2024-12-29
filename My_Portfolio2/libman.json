@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.3",
+      "destination": "wwwroot/bootstrap/",
+      "files": [
+        "js/bootstrap.min.js",
+        "js/bootstrap.js",
+        "js/bootstrap.bundle.min.js",
+        "js/bootstrap.bundle.js",
+        "css/bootstrap.min.css",
+        "css/bootstrap.css"
+      ]
+    }
+  ]
+}

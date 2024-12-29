@@ -1,0 +1,44 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <title>Mohammed Rehab</title>
+</head>
+<body>
+
+    <header>
+        <a href="#" class="logo">My Portfolio</a>
+        <nav class="navigation">
+            <a asp asp-controller="Home" asp-action="Index">About me</a>
+            <a asp asp-controller="Home" asp-action="Skills">Skills</a>
+            <a asp asp-controller="Home" asp-action="Services">Services</a>
+            <a asp asp-controller="Home" asp-action="Projects">Projects</a>
+            <a asp asp-controller="Home" asp-action="ContactMe">Contact Me</a>
+        </nav>
+    </header>
+
+
+    @*body*@
+
+    @RenderBody()
+
+
+    <footer class="footer">
+        <p class="footer-title">Copyrights &copy; reserved for <span>Mohammed Rehab @DateTime.Now.Year</span></p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/mohammed-rehab-8211b6309/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/mohammedrehab288"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=61555488620245"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+    </footer>
+
+</body>
+</html>

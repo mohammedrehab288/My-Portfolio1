@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\css\\Site.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\Site.css"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\css\\style.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\style.css"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\image\\Game.png",
+      "PackagePath": "staticwebassets\\image\\Game.png"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\image\\Mohammed.jpg",
+      "PackagePath": "staticwebassets\\image\\Mohammed.jpg"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\image\\MohammedRehab CV.pdf",
+      "PackagePath": "staticwebassets\\image\\MohammedRehab CV.pdf"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\image\\Screenshot (228).png",
+      "PackagePath": "staticwebassets\\image\\Screenshot (228).png"
+    },
+    {
+      "Id": "D:\\My_Portfolio3\\My_Portfolio2\\wwwroot\\image\\Screenshot (229).png",
+      "PackagePath": "staticwebassets\\image\\Screenshot (229).png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.My_Portfolio2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.My_Portfolio2.props",
+      "PackagePath": "build\\My_Portfolio2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.My_Portfolio2.props",
+      "PackagePath": "buildMultiTargeting\\My_Portfolio2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.My_Portfolio2.props",
+      "PackagePath": "buildTransitive\\My_Portfolio2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
